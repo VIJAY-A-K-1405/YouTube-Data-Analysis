@@ -37,7 +37,7 @@ Utilize Apache Spark for data pipeline orchestration.
 Develop Python scripts for data extraction and transformation.
 Analyze and store YouTube data effectively.
 
-> **Complete project explained on LinkedIn:** 
+> **Complete project explained on LinkedIn:** https://www.linkedin.com/feed/update/urn:li:activity:7175798774374535168/
 
  ## Contact Information
 
